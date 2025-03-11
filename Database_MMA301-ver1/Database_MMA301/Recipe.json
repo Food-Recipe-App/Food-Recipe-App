@@ -1,0 +1,26 @@
+[
+  {
+    "_id": { "$oid": "615a1b2e3c4d5e6f7a8b9c0e" },
+    "name": "Súp cà chua",
+    "instructions": "Đun sôi cà chua và xay nhuyễn.",
+    "cookTimeMinutes": 30,
+    "difficulty": "Dễ",
+    "calories": 150,
+    "image": "soup_ca_chua.jpg",
+    "ingredient": [
+      { "$oid": "615a1b2e3c4d5e6f7a8b9c0d" }
+    ]
+  },
+  {
+    "_id": { "$oid": "615a1b2e3c4d5e6f7a8b9c1e" },
+    "name": "Súp hành tây",
+    "instructions": "Đun sôi hành tây và xay nhuyễn.",
+    "cookTimeMinutes": 40,
+    "difficulty": "Trung bình",
+    "calories": 200,
+    "image": "soup_hanh_tay.jpg",
+    "ingredient": [
+      { "$oid": "615a1b2e3c4d5e6f7a8b9c1d" }
+    ]
+  }
+]

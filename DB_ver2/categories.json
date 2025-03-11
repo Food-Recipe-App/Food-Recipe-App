@@ -1,0 +1,26 @@
+[
+    {
+        "category": "Breakfast"
+    },
+    {
+        "category": "Lunch"
+    },
+    {
+        "category": "Dinner"
+    },
+    {
+        "category": "Asian"
+    },
+    {
+        "category": "Italian"
+    },
+    {
+        "category": "Desserts"
+    },
+    {
+        "category": "Vegetarian"
+    },
+    {
+        "category": "Seafood"
+    }
+]

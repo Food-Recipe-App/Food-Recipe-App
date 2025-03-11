@@ -1,0 +1,29 @@
+BASE : https://www.youtube.com/watch?v=JJR60QtgdsM
+API: https://dummyjson.com/docs/recipes
+MAP: https://docs.goong.io/goong-map-react/docs/get-started/get-started
+Push Notification: https://www.youtube.com/watch?v=V-hois8dgM4
+
+BE - Nodejs
+FE : react native
+
+
+
+*Làm thêm 
+1. Phân quyền user, admin, login, register
+
+2 quan ly tai` khoan,  Quản lý Công Thức & Nội Dung
+
+3. Firebase admin push notification . 
+
+4. Làm thêm Footer gồm :+ Detec ảnh openAI (Main feature )
+                        + Profile,
+                        + Menu của bạn (Favorite thuc don)
+                        + Trang chủ )
+5. Chèn video dạy món ăn vào detail các món ăn .
+
+* Nếu trên xong hết thì làm :
+1. Tích hợp maps để tìm Nơi có nguyên liệu, nhà hàng, món ăn  gần nhất.
+2. 🤝 Tương Tác & Cộng Đồng
+✅ Đánh giá, bình luận công thức món ăn
+✅ Chia sẻ công thức cá nhân lên cộng đồng
+✅ Tham gia thử thách nấu ăn

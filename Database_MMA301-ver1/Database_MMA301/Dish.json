@@ -1,0 +1,28 @@
+[
+  {
+    "_id": { "$oid": "615a1b2e3c4d5e6f7a8b9c0f" },
+    "name": "Súp cà chua cổ điển",
+    "image": "soup_ca_chua_co_dien.jpg",
+    "description": "Công thức súp cà chua cổ điển.",
+    "category": {
+      "country": "Việt Nam",
+      "mealTime": [ "Bữa trưa","Bữa tối" ],
+      "foodType": [ "Súp" ]
+    },
+    "isDeleted": false,
+    "recipe": { "$oid": "615a1b2e3c4d5e6f7a8b9c0e" }
+  },
+  {
+    "_id": { "$oid": "615a1b2e3c4d5e6f7a8b9c1f" },
+    "name": "Súp hành tây cổ điển",
+    "image": "soup_hanh_tay_co_dien.jpg",
+    "description": "Công thức súp hành tây cổ điển.",
+    "category": {
+      "country": "Việt Nam",
+      "mealTime": [ "Bữa trưa", "Bữa tối" ],
+      "foodType": [ "Súp" ]
+    },
+    "isDeleted": false,
+    "recipe": { "$oid": "615a1b2e3c4d5e6f7a8b9c1e" }
+  }
+]

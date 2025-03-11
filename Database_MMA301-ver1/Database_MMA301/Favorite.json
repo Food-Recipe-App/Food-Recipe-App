@@ -1,0 +1,14 @@
+[
+  {
+    "_id": { "$oid": "615a1b2e3c4d5e6f7a8b9c13" },
+    "user": { "$oid": "615a1b2e3c4d5e6f7a8b9c10" },
+    "dish": { "$oid": "615a1b2e3c4d5e6f7a8b9c0f" },
+    "isLoved": true
+  },
+  {
+    "_id": { "$oid": "615a1b2e3c4d5e6f7a8b9c14" },
+    "user": { "$oid": "615a1b2e3c4d5e6f7a8b9c11" },
+    "dish": { "$oid": "615a1b2e3c4d5e6f7a8b9c1f" },
+    "isLoved": false
+  }
+]

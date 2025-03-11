@@ -1,0 +1,12 @@
+[
+  {
+    "_id": { "$oid": "615a1b2e3c4d5e6f7a8b9c11" },
+    "role_type": "Admin",
+    "user": { "$oid": "615a1b2e3c4d5e6f7a8b9c10" }
+  },
+  {
+    "_id": { "$oid": "615a1b2e3c4d5e6f7a8b9c12" },
+    "role_type": "User",
+    "user": { "$oid": "615a1b2e3c4d5e6f7a8b9c11" }
+  }
+]

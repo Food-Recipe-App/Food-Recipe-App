@@ -1,0 +1,10 @@
+[
+  {
+    "_id": { "$oid": "615a1b2e3c4d5e6f7a8b9c0d" },
+    "name": ["Cà Chua", "Cà Tím"]
+  },
+  {
+    "_id": { "$oid": "615a1b2e3c4d5e6f7a8b9c1d" },
+    "name": "Hành Tây"
+  }
+]

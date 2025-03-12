@@ -1,0 +1,22 @@
+[
+  {
+    "_id": { "$oid": "615a1b2e3c4d5e6f7a8b9c0e" },
+    "instructions": "Đun sôi cà chua và xay nhuyễn.",
+    "cookTimeMinutes": 30,
+    "difficulty": "Dễ",
+    "calories": 150,
+    "ingredient": [
+      { "$oid": "615a1b2e3c4d5e6f7a8b9c0d" }
+    ]
+  },
+  {
+    "_id": { "$oid": "615a1b2e3c4d5e6f7a8b9c1e" },
+    "instructions": "Đun sôi hành tây và xay nhuyễn.",
+    "cookTimeMinutes": 40,
+    "difficulty": "Trung bình",
+    "calories": 200,
+    "ingredient": [
+      { "$oid": "615a1b2e3c4d5e6f7a8b9c1d" }
+    ]
+  }
+]

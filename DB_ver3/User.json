@@ -1,0 +1,24 @@
+[
+  {
+    "_id": { "$oid": "615a1b2e3c4d5e6f7a8b9c10" },
+    "username": "john_doe",
+    "password": "hashed_password",
+    "avatar": "john_avatar.jpg",
+    "email": "john@example.com",
+    "phoneNumber": "1234567890",
+    "isDeleted": false,
+    "registration_token": null,
+    "role": { "$oid": "615a1b2e3c4d5e6f7a8b9c11" }
+  },
+  {
+    "_id": { "$oid": "615a1b2e3c4d5e6f7a8b9c11" },
+    "username": "jane_doe",
+    "password": "hashed_password",
+    "avatar": "jane_avatar.jpg",
+    "email": "jane@example.com",
+    "phoneNumber": "0987654321",
+    "isDeleted": false,
+    "registration_token": null,
+    "role": { "$oid": "615a1b2e3c4d5e6f7a8b9c12" }
+  }
+]
